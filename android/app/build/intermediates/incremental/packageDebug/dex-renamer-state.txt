@@ -1,0 +1,7 @@
+#Thu Jul 06 23:31:38 EDT 2017
+base.0=/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77caab95d01ce84c98220eee4692469a04d4d990
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0082e47b8ab7dfac48c0c28dec2e6a2665d848f8/classes.dex
+base.1=/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0082e47b8ab7dfac48c0c28dec2e6a2665d848f8
+file.0=/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77caab95d01ce84c98220eee4692469a04d4d990/classes.dex

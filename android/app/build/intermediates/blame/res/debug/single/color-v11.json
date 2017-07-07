@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

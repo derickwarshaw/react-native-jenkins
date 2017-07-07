@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77caab95d01ce84c98220eee4692469a04d4d990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwarshaw/.android/build-cache/5a44ddeac9a698f9b6064e27605c704145a4e6b0/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_585a79217d78fb835bdecbfe0b9f50c8e9fef4cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a8aa1aebf6d51b05154c701b393aba87c010dc4">
+        <dex dex="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0082e47b8ab7dfac48c0c28dec2e6a2665d848f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dwarshaw/.android/build-cache/5a44ddeac9a698f9b6064e27605c704145a4e6b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bc1be09015251771d59ae2cb4c3916471f26b2f/classes.dex" />
+    </item>
+
+</items>

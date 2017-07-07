@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/dwarshaw/WebstormProjects/react-native-jenkins/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/dwarshaw/.android/build-cache/daa756de2785d33d7031c9de48f166c803e125e2/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
