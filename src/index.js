@@ -10,6 +10,9 @@ import RestClient from './redux/middleware/RestClient';
 import Startup from './startup';
 
 // https://github.com/facebook/react-native/issues/9599
+
+
+// awesomelkjlkj
 if (typeof global.self === 'undefined') {
   global.self = global;
 }
