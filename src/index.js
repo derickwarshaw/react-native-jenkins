@@ -12,7 +12,7 @@ import Startup from './startup';
 // https://github.com/facebook/react-native/issues/9599
 
 
-// awesome
+// awesomelkjlkj
 if (typeof global.self === 'undefined') {
   global.self = global;
 }
